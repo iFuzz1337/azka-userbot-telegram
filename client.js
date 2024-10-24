@@ -22,7 +22,7 @@ for (var index = 0; index < getAdminsUserId.length; index++) {
         client["admins_user_id"].push(Number(element));
     }
 }
-if (!client["token_bot"]){
+if (!client["7541575247:AAEUFneLd_kX-KqNdOSKZezjMZKi1Kub2X0"]){
     throw {
         "message": "token bot is false"
     };
